@@ -79,7 +79,8 @@ function draw() {
     push();
     textSize(40);
     textAlign(CENTER);
-    text("CONDRAGULATIONS BABY!", width / 2, height / 2 + 200);
+    text("CONDRAGULATIONS", width / 2, height / 2 + 200);
+    text("YOU'RE A WINNER BABY!", width / 2, height / 2 + 270);
     pop();
   }
 
